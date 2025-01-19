@@ -3,7 +3,7 @@
 На основе всех полученных данных в курсе выполнить буткемп-проект по одной из выбранной областей, 
 провести
 
-## Часть I: [Банки — cегментация пользователей по потреблению продуктов](https://github.com/starling92/yandex_practicum/blob/main/graduation_project/graduation_projectyandex_new.ipynb)
+## Часть I: [ E-commerce — Выявление профилей потребления](https://github.com/starling92/yandex_practicum/blob/main/graduation_project/graduation_projectyandex_new.ipynb)
 
 
 ### Цель исследования
@@ -31,7 +31,7 @@ price — цена товара
 
 *pandas, numpy, matplotlib, seaborn, math, datetime, scipy, pymystem3, collections, stats, warnings*
 
-## Часть III: [SQL](https://github.com/starling92/yandex_practicum/blob/main/graduation_project/graduation_projectyandex_SQL_new.ipynb.ipynb)
+## Часть II: [SQL](https://github.com/starling92/yandex_practicum/blob/main/graduation_project/graduation_projectyandex_SQL_new.ipynb.ipynb)
 
 Проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские
 обзоры книг. 
